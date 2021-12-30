@@ -15,7 +15,7 @@ function escolhaCor(cor: 'Vermelho' | 'Amarelo' | 'Azul'): string{
   return cor;
 }
 
-console.log(escolhaCor);
+console.log(escolhaCor('Amarelo'));
 
 console.log(pessoa.nome);
 
