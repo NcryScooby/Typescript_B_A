@@ -19,3 +19,5 @@ function escolhaCor(cor: Cores): void {
 }
 
 escolhaCor(Cores.VERDE);
+
+export default 1;
